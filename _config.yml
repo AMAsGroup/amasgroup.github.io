@@ -10,8 +10,8 @@ title: AMAs Research Group
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AMAs Research Group.
-baseurl: "https://masihbj.github.io"
-url: "/ama-merc"
+baseurl: "/ama-merc"
+url: "https://masihbj.github.io"
 
 include:
   - .htaccess
