@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "AMAs - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "AMAs -- Publications."
 sitemap: false
 permalink: /publications/
 ---
