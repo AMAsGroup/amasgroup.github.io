@@ -58,7 +58,7 @@ permalink: /team/
   </a>
   {%- endif -%}
 
-  <ul style="overflow: hidden; margin-top: 10px;">
+  <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
