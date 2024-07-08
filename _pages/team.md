@@ -26,7 +26,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
   <i>{{ member.institute }}</i>
-  <br>email: <{{ member.email }}>
+  <br>Email: <{{ member.email }}>
   <br>
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
@@ -118,9 +118,9 @@ permalink: /team/
   {% if member.institute %}
   <i>{{ member.institute }}</i>
   {% endif %}
-  email: <{{ member.email }}>
+  Email: <{{ member.email }}>
   <br>
-  <br>{%- if member.linkedin -%}
+  {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
       <i class="fas fa-circle fa-stack-2x"></i>
