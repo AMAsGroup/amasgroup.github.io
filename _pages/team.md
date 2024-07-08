@@ -27,46 +27,19 @@ permalink: /team/
   <i>{{ member.info }}</i>
   <br><b>Research topic:</b> {{member.topic}}
   <br>email: <{{ member.email }}>
+  <br>
   <div class="social-media-links">
       {% if member.linkedin %}
-        <a href="{{ member.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <a href="{{ member.linkedin }}" target="_blank" class="icon"><i class="fab fa-linkedin"></i></a>
       {% endif %}
       {% if member.scholar %}
-        <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar"></i></a>
+        <a href="{{ member.scholar }}" target="_blank" class="icon"><i class="ai ai-google-scholar"></i></a>
       {% endif %}
     </div>
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
+    {% for i in (1..member.number_educ) %}
+      <li>{{ member["education" | append: i] }}</li>
+    {% endfor %}
   </ul>
 </div>
 
