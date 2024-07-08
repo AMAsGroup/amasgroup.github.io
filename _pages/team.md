@@ -22,19 +22,19 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   <br><b>Research topic:</b> {{member.topic}}
   <br>email: <{{ member.email }}>
   <br>
   {%- if member.linkedin -%}
-  <a href="https://www.linkedin.com/in/{{ member.github }}" title="Linkedin">
+  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
     </span>
-    <span class="sr-only">Github</span>
+    <span class="sr-only">Linkedin</span>
   </a>
   {%- endif -%}
 
@@ -42,7 +42,7 @@ permalink: /team/
   <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      <i class="ai ai-google-scholar fa-stack-1x fa-inverse"></i>
     </span>
     <span class="sr-only">GScholar</span>
   </a>
