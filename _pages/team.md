@@ -24,10 +24,9 @@ permalink: /team/
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  <br><i>{{ member.institute }}</i>
+  <i>{{ member.info }}</i><br>
+  <i>{{ member.institute }}</i>
   <br>email: <{{ member.email }}>
-  <br>
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
@@ -118,8 +117,7 @@ permalink: /team/
   {% if member.institute %}
   <i>{{ member.institute }}</i>
   {% endif %}
-  email: <{{ member.email }}>
-  <br>
+  <br>email: <{{ member.email }}>
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
