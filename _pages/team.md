@@ -115,7 +115,9 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
+  {% if member.institute %}
   <br><i>{{ member.institute }}</i>
+  {% endif %}
   <br>email: <{{ member.email }}>
   <br>
   {%- if member.linkedin -%}
