@@ -28,10 +28,36 @@ permalink: /team/
   <br><b>Research topic:</b> {{member.topic}}
   <br>email: <{{ member.email }}>
   <br>
-  <div class="social-media-links" style="margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/yahya-palizdar-83938325/" target="_blank" class="icon" style="margin-right: 5px;"><i class="fab fa-linkedin"></i></a>
-    <a href="https://scholar.google.com/citations?user=ty6SMIAAAAJ&hl=en" target="_blank" class="icon" style="margin-right: 5px;"><i class="ai ai-google-scholar"></i></a>
-  </div>
+  {%- if member.linkedin -%}
+  <a href="https://www.linkedin.com/in/{{ member.github }}" title="Linkedin">
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+    </span>
+    <span class="sr-only">Github</span>
+  </a>
+  {%- endif -%}
+
+  {%- if member.gscholar -%}
+  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar">
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+    </span>
+    <span class="sr-only">GScholar</span>
+  </a>
+  {%- endif -%}
+
+  {%- if member.orcid -%}
+  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid">
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+    </span>
+    <span class="sr-only">Orcid</span>
+  </a>
+  {%- endif -%}
+
   <ul style="overflow: hidden; margin-top: 10px;">
   
   {% if member.number_educ == 1 %}
