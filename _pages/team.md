@@ -114,9 +114,9 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
+  <i>{{ member.info }}</i><br>
   {% if member.institute %}
-  <br><i>{{ member.institute }}</i>
+  <i>{{ member.institute }}</i>
   {% endif %}
   <br>email: <{{ member.email }}>
   <br>
