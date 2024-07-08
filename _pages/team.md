@@ -118,7 +118,7 @@ permalink: /team/
   {% if member.institute %}
   <i>{{ member.institute }}</i>
   {% endif %}
-  <br>email: <{{ member.email }}>
+  email: <{{ member.email }}>
   <br>
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
