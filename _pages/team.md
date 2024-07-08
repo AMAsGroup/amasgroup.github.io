@@ -114,13 +114,13 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
+  <i>{{ member.info }}</i><br>
   {% if member.institute %}
-  <br><i>{{ member.institute }}</i>
+  <i>{{ member.institute }}</i>
   {% endif %}
   email: <{{ member.email }}>
   <br>
-  {%- if member.linkedin -%}
+  <br>{%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
       <i class="fas fa-circle fa-stack-2x"></i>
