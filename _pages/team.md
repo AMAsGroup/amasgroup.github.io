@@ -29,12 +29,8 @@ permalink: /team/
   <br>email: <{{ member.email }}>
   <br>
   <div class="social-media-links" style="margin-top: 10px;">
-    {% if member.linkedin %}
-      <a href="{{ member.linkedin }}" target="_blank" class="icon"><i class="fab fa-linkedin"></i></a>
-    {% endif %}
-    {% if member.scholar %}
-      <a href="{{ member.scholar }}" target="_blank" class="icon"><i class="ai ai-google-scholar"></i></a>
-    {% endif %}
+    <a href="https://www.linkedin.com/in/yahya-palizdar-83938325/" target="_blank" class="icon" style="margin-right: 5px;"><i class="fab fa-linkedin"></i></a>
+    <a href="https://scholar.google.com/citations?user=ty6SMIAAAAJ&hl=en" target="_blank" class="icon" style="margin-right: 5px;"><i class="ai ai-google-scholar"></i></a>
   </div>
   <ul style="overflow: hidden; margin-top: 10px;">
   
