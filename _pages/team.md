@@ -28,14 +28,13 @@ permalink: /team/
   <br><b>Research topic:</b> {{member.topic}}
   <br>email: <{{ member.email }}>
   <br>
-  <div class="social-media-links">
-      {% if member.linkedin %}
-        <a href="{{ member.linkedin }}" target="_blank" class="icon"><i class="fab fa-linkedin"></i></a>
-      {% endif %}
-      {% if member.scholar %}
-        <a href="{{ member.scholar }}" target="_blank" class="icon"><i class="ai ai-google-scholar"></i></a>
-      {% endif %}
-    </div>
+  {% if member.linkedin %}
+    <a href="{{ member.linkedin }}" target="_blank" class="icon"><i class="fab fa-linkedin"></i></a>
+  {% endif %}
+  {% if member.scholar %}
+    <a href="{{ member.scholar }}" target="_blank" class="icon"><i class="ai ai-google-scholar"></i></a>
+  {% endif %}
+
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
