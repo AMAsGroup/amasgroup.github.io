@@ -29,7 +29,7 @@ permalink: /team/
   <br>Email: <{{ member.email }}>
   <br>
   {%- if member.linkedin -%}
-  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
+  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
       <i class="fab fa-linkedin fa-stack-1x"></i>
     </span>
@@ -38,7 +38,7 @@ permalink: /team/
   {%- endif -%}
 
   {%- if member.gscholar -%}
-  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar">
+  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
       <i class="fa fa-graduation-cap fa-stack-1x"></i>
     </span>
@@ -47,7 +47,7 @@ permalink: /team/
   {%- endif -%}
 
   {%- if member.orcid -%}
-  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid">
+  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
       <i class="fab fa-orcid fa-stack-1x"></i>
     </span>
@@ -118,7 +118,7 @@ permalink: /team/
   Email: <{{ member.email }}>
   <br>
   {%- if member.linkedin -%}
-  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
+  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
       <i class="fab fa-linkedin fa-stack-1x"></i>
     </span>
@@ -127,7 +127,7 @@ permalink: /team/
   {%- endif -%}
 
   {%- if member.gscholar -%}
-  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar">
+  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
       <i class="fa fa-graduation-cap fa-stack-1x"></i>
     </span>
@@ -136,7 +136,7 @@ permalink: /team/
   {%- endif -%}
 
   {%- if member.orcid -%}
-  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid">
+  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
       <i class="fab fa-orcid fa-stack-1x"></i>
     </span>
