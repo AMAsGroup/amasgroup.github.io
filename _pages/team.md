@@ -31,8 +31,7 @@ permalink: /team/
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
-      <i class="fas fa-square fa-stack-2x"></i>
-      <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      <i class="fab fa-linkedin fa-stack-1x"></i>
     </span>
     <span class="sr-only">Linkedin</span>
   </a>
@@ -41,8 +40,7 @@ permalink: /team/
   {%- if member.gscholar -%}
   <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      <i class="fa fa-graduation-cap fa-stack-1x"></i>
     </span>
     <span class="sr-only">GScholar</span>
   </a>
@@ -51,8 +49,7 @@ permalink: /team/
   {%- if member.orcid -%}
   <a href="https://orcid.org/{{ member.orcid }}" title="Orcid">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+      <i class="fab fa-orcid fa-stack-1x"></i>
     </span>
     <span class="sr-only">Orcid</span>
   </a>
