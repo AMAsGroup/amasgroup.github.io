@@ -21,14 +21,13 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
-  <!-- <br><b>Research topic:</b> {{member.topic}} -->
+  <br><i>{{ member.institute }}</i>
   <br>email: <{{ member.email }}>
   <br>
-
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
@@ -102,9 +101,9 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students
+## Research Assistants
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -113,10 +112,44 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
+  <i>{{ member.info }}</i>
+  <br><i>{{ member.institute }}</i>
+  <br>email: <{{ member.email }}>
+  <br>
+  {%- if member.linkedin -%}
+  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+    </span>
+    <span class="sr-only">Linkedin</span>
+  </a>
+  {%- endif -%}
 
+  {%- if member.gscholar -%}
+  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar">
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+    </span>
+    <span class="sr-only">GScholar</span>
+  </a>
+  {%- endif -%}
+
+  {%- if member.orcid -%}
+  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid">
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+    </span>
+    <span class="sr-only">Orcid</span>
+  </a>
+  {%- endif -%}
+  <br>
+  <ul style="overflow: hidden">
+  
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -157,7 +190,6 @@ permalink: /team/
 
 
 ## Alumni
-
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
