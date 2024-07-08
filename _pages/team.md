@@ -30,7 +30,7 @@ permalink: /team/
   <br>
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
-    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 2em">
       <i class="fab fa-linkedin fa-stack-1x"></i>
     </span>
     <span class="sr-only">Linkedin</span>
