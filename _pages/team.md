@@ -21,13 +21,14 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   <!-- <br><b>Research topic:</b> {{member.topic}} -->
   <br>email: <{{ member.email }}>
   <br>
+
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
