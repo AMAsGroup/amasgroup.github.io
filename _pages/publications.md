@@ -55,10 +55,13 @@ permalink: /publications/
 ## Full List of publications
 
 {% assign sorted_publist = site.data.publist | sort: 'year' | reverse %}
+{% assign current_year = '' %}
 
 {% for publi in sorted_publist %}
-
+  {% if current_year != publi.year %}
+    {% assign current_year = publi.year %}
+    <h2>Publications in {{ current_year }}</h2>
+  {% endif %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  <em>{{ publi.authors }}</em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
 {% endfor %}
