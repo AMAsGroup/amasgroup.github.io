@@ -60,7 +60,7 @@ permalink: /publications/
 {% for publi in sorted_publist %}
   {% if current_year != publi.year %}
     {% assign current_year = publi.year %}
-    <h2>Publications in {{ current_year }}</h2>
+    <b>{{ current_year }}</b>
   {% endif %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }}</em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
