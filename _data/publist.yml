@@ -202,7 +202,7 @@
   year: 2021
   link:
     url: https://doi.org/10.1007/s12540-020-00832-4
-    display:  Metals and Materials International (2021)
+    display: Metals and Materials International (2021)
   highlight: 0
   news1:
 
@@ -213,7 +213,171 @@
   year: 2021
   link:
     url: https://doi.org/10.1007/978-3-030-72432-0_20
-    display: Magnesium 2021
+    display: Magnesium 2021 :/Proceedings of the 12th International Conference on Magnesium Alloys and Their Applications
   highlight: 1
-  news1: Proceedings of the 12th International Conference on Magnesium Alloys and Their Applications
   news2: Part of the book series [The Minerals, Metals & Materials Series (MMMS)](https://www.springer.com/series/15240)
+
+- title: "Low-carbon cast microalloyed steel intercritically heat-treated at different temperatures: microstructure and mechanical properties"
+  image: cover_ACME.jpg
+  description: 
+  authors: H. Torkamani, S. Raygan, C. Garcia-Mateo, Y. Palizdar, J. Rassizadehghani, J. Vivas, D. San-Martin
+  year: 2021
+  link:
+    url: https://doi.org/10.1007/s43452-021-00222-6
+    display: Archives of Civil and Mechanical Engineering (2021)
+  highlight: 0
+  news1:
+
+- title: "The effect of Y addition on the microstructure and work hardening behavior of Mg-Zn-Zr alloys"
+  image: cover_performance.jpg
+  description: The effect of adding different amounts of Y on the microstructure, mechanical properties, texture and work hardening behavior of the extruded Mg-6Zn-0.5Zr-xY alloys (x = 0, 1, 2, 3 wt.%) was investigated.
+  authors: S. Najafi, Y. Palizdar, A. Sheikhani, M. Soltan Ali Nezhad, F. Abdiyan, S.M. Banijamali, H. Torkamani
+  year: 2021
+  link:
+    url: https://doi.org/10.1007/s11665-021-05592-9
+    display: Journal of Materials Engineering and Performance (2021)
+  highlight: 0
+  news1:
+
+- title: "Characterization, growth kinetics and formation mechanism of aluminide coating by plasma paste aluminizing on IN738"
+  image: cover_vacuum.jpg
+  description: In this research, with the single-step plasma paste aluminizing technique which has been considered in recent years, aluminizing of a Ni-base superalloy (IN738) was performed at 600, 700 and 800 °C for 0.5, 1, 2 and 4 h. 
+  authors: H. Mahmoudi, S.M.M. Hadavi, Y. Palizdar
+  year: 2021
+  link:
+    url: https://doi.org/10.1016/j.vacuum.2020.109968
+    display: Vacuum (2021)
+  highlight: 0
+  news1:
+
+- title: "An uncomplicated method for growing nano-quasicrystalline structures in the AlCuFeB quaternary alloy system: A short-time milling"
+  image: 
+  description: This paper focuses on the synthesis, structural and microstructural evolutions, thermal stability, microhardness, and electrical and optical properties of the Al59Cu25.5Fe12.5B3 nanoquasicrystalline alloy for solar selective absorber usages.
+  authors: M. Amini, M.R. Rahimipour, S.A. Tayebifard, Y. Palizdar
+  year: 2021
+  link:
+    url: https://doi.org/10.1016/j.mex.2021.101305
+    display: MethodsX (2021)
+  highlight: 0
+  news1:
+
+- title: "Ultrafast synthesis of the nanostructured Al59Cu25.5Fe12.5B3 quasicrystalline and crystalline phases by high-energy ball milling: Microhardness, electrical resistivity, and solar cell absorptance studies"
+  image: cover_Apowder-tech.jpg
+  description: 
+  authors: M. Amini, M.R. Rahimipour, S.A. Tayebifard, Y. Palizdar
+  year: 2020
+  link:
+    url: https://doi.org/10.1016/j.apt.2020.09.013
+    display: Advanced Powder Technology (2020)
+  highlight: 0
+  news1:
+
+- title: "Effect of milling time on XRD phases and microstructure of a novel Al67Cu20Fe10B3 quasicrystalline alloy"
+  image: 
+  description: The quasicrystalline materials represent a new materials group with definite crystallite structural characteristics, in which the AlCuFe(B) quasicrystalline alloys have been widely studied owing to its various technological advantages such as easily accessible in nature, thermal stability, affordability as well as not having toxic constituent elements. Although these materials can be achieved by different procedures, the synthesis of more extensive amounts of AlCuFeB quasicrystalline single-phase powders is more complicated. In this study, the Al67Cu20Fe10B3 quasicrystalline alloys were synthesized through the mechanical alloying process and afterward consolidated to the bulk specimens by cold isostatic pressing (CIP) technique. The structural and microstructural evolutions, as well as the morphology of as-milled powders and phase transformations, were studied during the ball milling process using field-emission scanning electron microscopy (FESEM) and x-ray diffractometry (XRD), while the thermal behavior was investigated using differential thermal analysis (DTA).
+  authors: M. Amini, M.R. Rahimipour, S.A. Tayebifard, Y. Palizdar
+  year: 2020
+  link:
+    url: https://doi.org/10.1088/2053-1591/ab9b37
+    display: Materials Research Express (2020)
+  highlight: 0
+  news1:
+
+- title: "Regulating tensile properties through bainitic transformation temperature in a hot-rolled δ-TRIP steel"
+  image: 
+  description: 
+  authors: A. Pourfarokh, H.R. Jafarian, A.R. Eivani, Y. Palizdar, N. Park
+  year: 2020
+  link:
+    url: https://doi.org/10.1080/02670836.2019.1700666
+    display: Materials Science and Technology (2020)
+  highlight: 0
+  news1:
+
+- title: "Chemical Interaction Between MgO Support and Iron Catalyst"
+  image: 
+  description: 
+  authors: M. Palizdar, Z. Aslam, R. Aghababazadeh, A. Mirhabibi, P. Sangpour, Z. Abadi, Y. Palizdar, R. Brydson
+  year: 2019
+  link:
+    url: http://ijmse.iust.ac.ir/article-1-1253-en.html
+    display: Iranian Journal of Materials Science & Engineering (2019)
+  highlight: 0
+  news1:
+
+- title: "The effect of Ce addition (up to 3%) and extrusion ratio on the microstructure and tensile properties of ZK60 Mg alloy"
+  image: 
+  description: In this study, attempts have been made to investigate the effects of both Ce addition and Extrusion Ratio (ER) on the microstructure and tensile properties of ZK60 alloy. With this aim, different amounts (1, 2 and 3 wt%) of Ce were added to a based ZK60 alloy and then the investigated alloys experienced the hot extrusion process with different ERs (12:1 and 18:1).
+  authors: A. Sheikhani, Y. Palizdar, M. Soltan Ali Nezhad, S. Najafi, H. Torkamani
+  year: 2019
+  link:
+    url: https://doi.org/10.1088/2053-1591/ab1fa0
+    display: Materials Research Express (2019)
+  highlight: 0
+  news1:
+
+- title: "The effect of thermomechanical process on the nanobainitic medium carbon steels"
+  image: cover_metalleng.jpg
+  description: 
+  authors: A. Kolahi, M. Pourshadloo, Y. Palizdar
+  year: 2019
+  link:
+    url: http://dx.doi.org/10.22076/me.2017.29729.1036
+    display: Metallurgical Engineering (2019)
+  highlight: 0
+  news1:
+
+- title: "Tensile behavior of normalized low carbon Nb-microalloyed steel in the presence of rare earth elements"
+  image: cover_material-scienceA.jpg
+  description: In this study, attempts have been made to study the effects of RE on the tensile behavior of a low carbon Nb-microalloyed steel which confronts yield point phenomenon during its tensile test. The results of the tensile tests and microstructural examinations presented in this research showed that the upper and lower yield points increase by the RE addition which was mainly attributed to the indirect effects of RE on the Nb-precipitation manner and refinement of the microstructure. The results also demonstrated that the flow behavior (oscillation in stress level) during the Lüders strain zone is considerably different for the base and RE-added steels. It was found that the RE-added steel undergoes a uniform propagation of the Lüders bands while the base steel showed a distinct non-uninform Lüders strain with rough fluctuations of stress level within this area. This could be due to the uniformity in distribution of nanoprecipitates and solute, e.g. C, atoms in the RE-added steels. Moreover, It was observed that the Lüders strain increases in the presence of RE which could be probably attributed to the finer ferrite grains and the change in nanoprecipitation behavior caused by RE addition. A significant increase in total elongation of the RE-added steel was also observed.
+  authors: H. Torkamani, S. Raygan, C. Garcia-Mateo, J. Rassizadehghani, Y. Palizdar, D. San-Martin
+  year: 2019
+  link:
+    url: https://doi.org/10.1016/j.msea.2019.02.005
+    display: Materials Science and Engineering A (2019)
+  highlight: 1
+  news1:
+
+- title: "The effect of Nb on microstructure, mechanical, and corrosion behavior of low Mn, microalloyed δ‐TRIP steel; a comparative study"
+  image: 
+  description: 
+  authors: Z. Jahangiri, Y. Palizdar, M.J. Molaei, A. Kolahi
+  year: 2019
+  link:
+    url: https://doi.org/10.30501/jamt.2019.84322
+    display: Journal of Advanced Materials and Technologies (2019)
+  highlight: 0
+  news1:
+
+- title: "Evolution of pearlite microstructure in low-carbon cast microalloyed steel due to the addition of La and Ce"
+  image: 
+  description: 
+  authors: H. Torkamani, S. Raygan, Carlos Garcia-Mateo, J. Rassizadehghani, Y. Palizdar, D. San-Martín
+  year: 2018
+  link:
+    url: https://doi.org/10.1007/s11661-018-4796-8
+    display: Metallurgical and Materials Transactions A (2018)
+  highlight: 0
+  news1:
+
+- title: "The Failiur Ananlysis of Nb-Microalloyed δ-Trip Steel"
+  image: 
+  description: 
+  authors: S. Gholami Shiri, Y. Palizdar, S.A. Jahromi, E.F. Monlevade
+  year: 2018
+  link:
+    url: https://doi.org/10.22068/ijmse.15.3.32
+    display: Iranian Journal of Materials Science & Engineering (2018)
+  highlight: 0
+  news1:
+
+- title: "Contributions of rare earth element (La, Ce) addition to the impact toughness of low carbon cast niobium microalloyed steels"
+  image: cover_MMI.jpg
+  description:  
+  authors: H. Torkamani, S. Raygan, C.s Garcia-Mateo, J. Rassizadehghani, Y. Palizdar, D. San-Martin
+  year: 2018
+  link:
+    url: https://doi.org/10.1007/s12540-018-0084-9
+    display: Metals and Materials International (2018)
+  highlight: 0
+  news1:
