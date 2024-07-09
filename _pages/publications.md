@@ -60,7 +60,11 @@ permalink: /publications/
 {% for publi in sorted_publist %}
   {% if current_year != publi.year %}
     {% assign current_year = publi.year %}
-    ### {{ current_year }}
+    {% if forloop.index > 1 %}
+
+---
+    {% endif %}
+### {{ current_year }}
   {% endif %}
   {{ publi.title }}  
   *{{ publi.authors }}*  
