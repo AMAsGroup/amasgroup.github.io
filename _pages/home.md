@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/home-page-strip.png" class="img-rounded" width="100%"/> -->
+
 **News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
 More details to follow.
 
