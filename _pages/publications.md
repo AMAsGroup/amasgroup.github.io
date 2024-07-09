@@ -54,7 +54,7 @@ permalink: /publications/
 
 ## Full List of publications
 
-{% assign sorted_publist = site.data.publist | sort: 'year' | reverse %}
+{% assign sorted_publist = site.data.publist | sort: 'year' %}
 {% assign current_year = '' %}
 
 {% for publi in sorted_publist %}
