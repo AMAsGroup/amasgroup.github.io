@@ -20,7 +20,7 @@
   highlight: 0
 
 - title: "Evaluation of microstructures and mechanical properties of deltha trip steel with different vanadium contents"
-  image: cover_results-in-materials.gif
+  image: cover_results-in-materials.jpg
   description: This research studies the effect of adding 0.12 and 0.25 wt% vanadium on the microstructure and mechanical properties of a delta-TRIP steel.
   authors: Y. Emamian, A. Kolahi, Y. Palizdar
   year: 2024
@@ -379,5 +379,203 @@
   link:
     url: https://doi.org/10.1007/s12540-018-0084-9
     display: Metals and Materials International (2018)
+  highlight: 0
+  news1:
+
+- title: "Effect of Al and Mo addition on phase formation, mechanical and microstructure properties of spark plasma sintered iron alloy"
+  image: 
+  description:  
+  authors: E. Ghasali, Y. Palizdar, A. Jam, H. Rajaei, T. Ebadzadeh
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1016/j.mtcomm.2017.10.005
+    display: Materials Today Communications (2017)
+  highlight: 0
+  news1:
+
+- title: "The influence of La and Ce addition on inclusion modification in cast niobium microalloyed steels"
+  image: 
+  description:  
+  authors: H. Torkamani, S. Raygan, C. Garcia-Mateo, J. Rassizadehghani, J. Vivas, Y. Palizdar, D. San-Martin
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.3390/met7090377
+    display: Metals (2017)
+  highlight: 0
+  news1:
+
+- title: "Effects of Mo addition on the microstructure and mechanical properties of cast microalloyed steel"
+  image: 
+  description:  
+  authors: H. Torkamani, H. Rashvand, Sh. Raygan, J. Rassizadehghani, Y. Palizdar, C. García-Mateo, D. San Martin
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.22068/ijmse.14.3.76
+    display: Iranian Journal of Materials Science & Engineering (2017)
+  highlight: 0
+  news1:
+
+- title: "Preparation and characterization of Tungsten Silicide Cladding on carbon steel"
+  image: 
+  description:  
+  authors: M. Hoseini, B. Yarmand, Y. Palizdar, A. Tayebifard
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.30501/jamt.2637.70345
+    display: Journal of Advanced Materials and Technologies (2017)
+  highlight: 0
+  news1:
+
+- title: "The influence of HH type steel microstructure on the distortion behavior of grate bar part in the indurating machine of pelletizing plant"
+  image: 
+  description:  
+  authors: M. Alizadeh, Y. Palizdar
+  year: 2017 and before
+  link:
+    url: https://journal.issiran.com/article_23707.html
+    display: International Journal of Iron & Steel Society of Iran (2016)
+  highlight: 0
+  news1:
+
+- title: "Synthesis and characterization of silver doped hydroxyapatite nanocomposite coatings and evaluation of their antibacterial and corrosion resistance properties in simulated body fluid"
+  image: 
+  description:  
+  authors: M. Mirzaee, M. Vaezi, Y. Palizdar
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1016/j.msec.2016.07.057
+    display: Materials Science and Engineering C (2016)
+  highlight: 0
+  news1:
+
+- title: "Unexpected effect of Nb addition as a microalloying element on mechanical properties of δ-TRIP steels"
+  image: 
+  description:  
+  authors: S. Gholami Shiri, S.A. Jenabali Jahromi, Y. Palizdar, M. Belbasi
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1016/S1006-706X(16)30148-0
+    display: Journal of Iron and Steel Research International (2016)
+  highlight: 0
+  news1:
+
+- title: "The effect of heat input on the microstructure and hardness of continuous fiber laser welded high Al-content δ-TRIP steel"
+  image: 
+  description:  
+  authors: Y. Najafi, F. MalekGhaini, Y. Palizdar, S. Gholami
+  year: 2017 and before
+  link:
+    url: https://jwsti.iut.ac.ir/article-1-77-en.html
+    display: Journal of Welding Science and Technology of Iran (2016)
+  highlight: 0
+  news1:
+
+- title: "Observation of thermally etched grain boundaries with the FIB/TEM technique"
+  image: 
+  description:  
+  authors: Y. Palizdar, D. San Martin, M. Ward, R.C. Cochrane, R. Brydson, A.J. Scott
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1016/j.matchar.2013.07.003
+    display: Materials characterization (2013)
+  highlight: 0
+  news1:
+
+- title: "Synthesis, characterization, and cytotoxicity studies of a novel Palladium(II) complex and evaluation of DNA-binding aspects"
+  image: 
+  description:  
+  authors: M. Saeidifar, H. Mansouri-Torshizi, Y. Palizdar, A. Divsalar, A.A. Saboury
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1080/15257770.2013.790552
+    display: Nucleosides, Nucleotides and Nucleic Acids (2013)
+  highlight: 0
+  news1:
+
+- title: "Influence of aluminum alloying and heating rate on austenite formation in low carbon-manganese steels"
+  image: 
+  description:  
+  authors: D. San Martín, Y. Palizdar, C. García-Mateo, R.C. Cochrane, R. Brydson, A.J. Scott
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1007/s11661-011-0692-1
+    display: Metallurgical and Materials Transactions A (2011)
+  highlight: 0
+  news1:
+
+- title: "Demonstration of elemental partitioning during austenite formation in low-carbon aluminium alloyed steel"
+  image: 
+  description:  
+  authors: Y. Palizdar, D. San Martin, A.P. Brown, M. Ward, R.C. Cochrane, R. Brydson, A.J. Scott
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1007/s10853-010-5208-7
+    display: Journal of materials science (2011)
+  highlight: 0
+  news1:
+
+- title: "Electron backscattered diffraction of monocrystalline bismuth titanate"
+  image: 
+  description:  
+  authors: M. Palizdar, Y. Palizdar, T.P. Comyn, A.J. Bell
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1111/j.1551-2916.2010.04132.x
+    display: Journal of the American Ceramic Society (2010)
+  highlight: 0
+  news1:
+
+- title: "Accurate analysis of EBSD data for phase identification"
+  image: 
+  description:  
+  authors: Y. Palizdar, R.C. Cochrane, R. Brydson, R. Leary, A.J. Scott
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1088/1742-6596/241/1/012104
+    display: Journal of Physics (Conference Series) (2010)
+  highlight: 0
+  news1:
+
+- title: "Application of Nomarski differential interference contrast microscopy to highlight the prior austenite grain boundaries revealed by thermal etching"
+  image: 
+  description:  
+  authors: D. San Martín, Y. Palizdar, R.C. Cochrane, R. Brydson, A.J. Scott
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1016/j.matchar.2010.03.001
+    display: Materials characterization (2010)
+  highlight: 0
+  news1:
+
+- title: "The effect of deliberate aluminium additions on the microstructure of rolled steel plate characterized using EBSD"
+  image: 
+  description:  
+  authors: Y. Palizdar, R.C. Cochrane, R. Brydson, D. Crowther, D. San Martin, A.J. Scott
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1016/j.matchar.2009.11.006
+    display: Materials characterization (2010)
+  highlight: 0
+  news1:
+
+- title: "Understanding the effect of aluminium on microstructure in low level nitrogen steels"
+  image: 
+  description:  
+  authors: Y. Palizdar, A.J. Scott, R.C. Cochrane, R. Brydson
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1179/174328409X401133
+    display: Materials Science and Technology (2009)
+  highlight: 0
+  news1:
+
+- title: "Understanding the role of aluminium in low level nitrogen steels via microstructural characterisation"
+  image: 
+  description:  
+  authors: Y. Palizdar, R.C. Cochrane, R. Brydson, F. Bygrave, A.J. Scott
+  year: 2017 and before
+  link:
+    url: https://doi.org/10.1088/1742-6596/126/1/012019
+    display: Journal of Physics (Conference Series) (2008)
   highlight: 0
   news1:
