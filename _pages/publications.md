@@ -60,10 +60,11 @@ permalink: /publications/
 
 {% for publi in sorted_publist %}
   {% if publi.year <= 2017 %}
-    {% if not grouped_before_2017 %}
+    {% if grouped_before_2017 == false %}
       {% assign grouped_before_2017 = true %}
       {% if current_year != '' %}
 ---
+
       {% endif %}
 ### 2017 and before
     {% endif %}
@@ -71,8 +72,8 @@ permalink: /publications/
     {% if current_year != publi.year %}
       {% assign current_year = publi.year %}
       {% if forloop.index > 1 %}
-
 ---
+
       {% endif %}
 ### {{ current_year }}
     {% endif %}
