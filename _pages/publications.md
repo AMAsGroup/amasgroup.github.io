@@ -80,5 +80,5 @@ permalink: /publications/
   {% endif %}
   {{ publi.title }}  
   *{{ publi.authors }}*  
-  [{{ publi.link.display }}]({{ publi.link.url }})
+  [{{ publi.link.display }}]({{ publi.link.url }} target="_blank")
 {% endfor %}
