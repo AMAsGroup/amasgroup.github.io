@@ -56,9 +56,16 @@ permalink: /publications/
 
 {% assign sorted_publist = site.data.publist | sort: 'year' | reverse %}
 {% assign current_year = '' %}
+{% assign grouped_before_2017 = false %}
 
 {% for publi in sorted_publist %}
-  {% if current_year != publi.year %}
+  {% if publi.year <= 2017 and not grouped_before_2017 %}
+    {% assign grouped_before_2017 = true %}
+    {% if current_year != '' %}
+---
+    {% endif %}
+### 2017 and before
+  {% elsif current_year != publi.year and publi.year > 2017 %}
     {% assign current_year = publi.year %}
     {% if forloop.index > 1 %}
 
