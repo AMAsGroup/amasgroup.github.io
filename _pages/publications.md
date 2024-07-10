@@ -59,19 +59,23 @@ permalink: /publications/
 {% assign grouped_before_2017 = false %}
 
 {% for publi in sorted_publist %}
-  {% if publi.year <= 2017 and not grouped_before_2017 %}
-    {% assign grouped_before_2017 = true %}
-    {% if current_year != '' %}
+  {% if publi.year <= 2017 %}
+    {% if not grouped_before_2017 %}
+      {% assign grouped_before_2017 = true %}
+      {% if current_year != '' %}
 ---
-    {% endif %}
+      {% endif %}
 ### 2017 and before
-  {% elsif current_year != publi.year and publi.year > 2017 %}
-    {% assign current_year = publi.year %}
-    {% if forloop.index > 1 %}
+    {% endif %}
+  {% else %}
+    {% if current_year != publi.year %}
+      {% assign current_year = publi.year %}
+      {% if forloop.index > 1 %}
 
 ---
-    {% endif %}
+      {% endif %}
 ### {{ current_year }}
+    {% endif %}
   {% endif %}
   {{ publi.title }}  
   *{{ publi.authors }}*  
