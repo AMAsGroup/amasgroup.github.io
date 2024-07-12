@@ -72,8 +72,9 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MERClogo.png" style="width: 200px; margin-right: 15px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IUSTlogo.jpg" style="width: 100px; margin-right: 15px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTlogo.png" style="width: 90px; margin-right: 15px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MERClogo.png" style="width: 200px; margin-right: 40px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IUSTlogo.jpg" style="width: 100px; margin-right: 40px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTlogo.png" style="width: 90px; margin-right: 40px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KNTUlogo.png" style="width: 100px; margin-right: 40px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Mobarakehlogo.png" style="width: 135px">
 </figure>
