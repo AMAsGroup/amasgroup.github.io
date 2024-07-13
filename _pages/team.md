@@ -212,6 +212,11 @@ permalink: /team/
 
 </div>
 
+<style>
+  .fa-stack:hover {
+    color: #00002e;
+  }
+</style>
 
 <!-- ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
