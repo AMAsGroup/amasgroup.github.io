@@ -48,7 +48,7 @@
 // Optional footer (stays gray in every modifier class)
 .panel-footer {
   padding: $panel-footer-padding;
-  background-image: url('images/footer_background.jpg'); /* Specify the path to your image */
+  background-image: url('{{ site.url }}{{ site.baseurl }}/images/footer_background.jpg'); /* Specify the path to your image */
   background-size: cover; /* Ensure the image covers the entire background */
   background-position: center; /* Center the background image */
   // background-color: $panel-footer-bg;
