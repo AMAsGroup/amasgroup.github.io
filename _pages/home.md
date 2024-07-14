@@ -71,7 +71,7 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 
 
 
-<figure class="fourth">
+<figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MERClogo.png" style="width: 150px; margin-right: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IUSTlogo.png" style="width: 100px; margin-right: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTlogo1.png" style="width: 100px; margin-right: 20px;">
