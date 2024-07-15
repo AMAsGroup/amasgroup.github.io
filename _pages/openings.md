@@ -6,7 +6,11 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Come join us in the AMAs Research Group!
+
+We are always looking for new group members with enthusiasm for science and scientific research. Members of the AMAs Group come from a variety of backgrounds (vision science, neuroscience, computer science, optometry, biomechanics, biology, public health, etc.). Our work is inherently interdisciplinary and we learn from each other’s varying backgrounds.
+
+For information about undergraduate, graduate, and post-doctoral research opportunities, please email kbonnen [at] iu [dot] edu.
 
 **We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
 
