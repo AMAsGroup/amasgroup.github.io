@@ -77,5 +77,5 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 </figure>
 
 
-### Joining AMAs Research Group
+### Join us
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
