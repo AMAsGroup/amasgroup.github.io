@@ -64,7 +64,7 @@ Current materials systems of interest include *Advanced High-Strength Steels* an
  - Microstructure and Texture Characterization
  - Mechanical Property Optimazation
  - Tribology
- - Corrosion and Coatings
+ - Coatings and Corrosion
  - Modeling and Simulations
 
 
@@ -81,5 +81,5 @@ We are grateful for funding and support from <a href="https://en.merc.ac.ir" tar
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IUSTlogo.png" style="width: 100px; margin-right: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTlogo1.png" style="width: 100px; margin-right: 20px;">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KNTUlogo.png" style="width: 100px; margin-right: 20px;"> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSTIDlogo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSTIDlogo.png" style="width: 160px">
 </figure>

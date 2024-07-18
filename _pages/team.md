@@ -111,11 +111,12 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i><br>
-  {% if member.institute %}
+  <i>Joined the group in {{ member.join }}</i><br>
+  <i>{{ member.info }}</i>
+  <!-- {% if member.institute %}
   <i>{{ member.institute }}</i>
-  {% endif %}
-  Email: <{{ member.email }}>
+  {% endif %} -->
+  <br>Email: <{{ member.email }}>
   <br>
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin" target="_blank">
@@ -186,7 +187,7 @@ permalink: /team/
 
 
 
-## Former BSc/ MSc students
+## Alumni
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -204,8 +205,8 @@ permalink: /team/
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
+<h4>Visiting Scholars</h4>
+{% for member in site.data.alumni_visiting %}
 {{ member.name }}
 {% endfor %}
 </div>
