@@ -57,14 +57,14 @@ Current materials systems of interest include *advanced high-strength steels* an
   </a>
 </div>
 
-### Core Competencies:
--	**Alloy Design and Development** (Advanced High Strength Steels, Lightweight Alloys)
--	**Metal Matrix Composites (MMCs)**
--	**Manufacturing Processes** (Casting, Powder Metallurgy, Surface Treatment)
--	**Wrought Metallic Alloys Processing** (Heat Treatment, Machining, Rolling, Extrusion)
--	**Microstructure and Texture Characterization** (SEM/EDS, XRD, TEM, EBSD, FTIR, XPS, Raman, AFM, Profilometry)
--	**Mechanical Property Optimization** (strength, ductility, hardness, toughness, wear and corrosion resistance)
--	**Modeling and Simulations**
+> ### Core Competencies:
+> -	**Alloy Design and Development** (Advanced High Strength Steels, Lightweight Alloys)
+> -	**Metal Matrix Composites (MMCs)**
+> -	**Manufacturing Processes** (Casting, Powder Metallurgy, Surface Treatment)
+> -	**Wrought Metallic Alloys Processing** (Heat Treatment, Machining, Rolling, Extrusion)
+> -	**Microstructure and Texture Characterization** (SEM/EDS, XRD, TEM, EBSD, FTIR, XPS, Raman, AFM, Profilometry)
+> -	**Mechanical Property Optimization** (strength, ductility, hardness, toughness, wear and corrosion resistance)
+> -	**Modeling and Simulations**
 
 
 ### Funding and collaborations
