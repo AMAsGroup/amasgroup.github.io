@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ### Overview
-We are the **Advanced Metal Alloys (AMAs) Research Group** at the [Materials and Energy Research Center (MERC)](https://en.merc.ac.ir), led by [Dr. Yahya Palizdar](https://www.linkedin.com/in/yahya-palizdar-83938325). Established in 2018 by a team of dedicated academics and engineers specializing in Materials Science, our group aims to serve as a nexus between academia and industry. Over the years, AMAs has evolved into an interdisciplinary group, actively collaborating with leading universities, research institutes, and industry partners, fostering a dynamic environment for innovation and knowledge transfer.
+We are the **Advanced Metal Alloys (AMAs) Research Group** at the <a href="https://en.merc.ac.ir" target="_blank">Materials and Energy Research Center (MERC)</a>, led by <a href="https://www.linkedin.com/in/yahya-palizdar-83938325" target="_blank">Dr. Yahya Palizdar</a>. Established in 2018 by a team of dedicated academics and engineers specializing in Materials Science, our group aims to serve as a nexus between academia and industry. Over the years, AMAs has evolved into an interdisciplinary group, actively collaborating with leading universities, research institutes, and industry partners, fostering a dynamic environment for innovation and knowledge transfer.
 
 Our mission at AMAs is to advance alloy design and development. We focus on optimizing the mechanical performance of alloys and composites for specific applications through a deep understanding of solute atom interactions, strengthening mechanisms, as well as the control of phase transformations and texture. By manipulating structures at the atomic scale through elemental additions and secondary processes, we strive to create new metallic materials with superior properties.
 
@@ -72,9 +72,8 @@ Current materials systems of interest include *Advanced High-Strength Steels* an
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-### Funding and collaborations
-We are grateful for funding from <a href="https://en.merc.ac.ir" target="_blank">MERC</a> and from the Mobarakeh Steel Technology & Innovation Development Fund (<a href="https://mstid.com/" target="_blank">MSTID FUND</a>)
-
+### Funding and Partnerships
+We are grateful for funding and support from <a href="https://en.merc.ac.ir" target="_blank">MERC</a> and the Mobarakeh Steel Technology & Innovation Development Fund (<a href="https://mstid.com/" target="_blank">MSTID FUND</a>). Strong collaborations also exist with other on-site research departments within MERC and with national universities, research centers, and knowledge-based companies. These partnerships are essential in facilitating the exchange of ideas, resources, and technologies, ensuring that our research remains at the forefront of the field and has a significant impact on both academia and industry.
 
 
 <figure class="fifth">
