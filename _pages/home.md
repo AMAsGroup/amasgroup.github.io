@@ -7,8 +7,11 @@ permalink: /
 ---
 
 ### Overview
-**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
+We are the **Advanced Metal Alloys (AMAs) Research Group** at the [Materials and Energy Research Center (MERC)](https://en.merc.ac.ir), led by [Dr. Yahya Palizdar](https://www.linkedin.com/in/yahya-palizdar-83938325). Established in 2018 by a team of dedicated academics and engineers specializing in Materials Science, our group aims to serve as a nexus between academia and industry. Over the years, AMAs has evolved into an interdisciplinary group, actively collaborating with leading universities, research institutes, and industry partners, fostering a dynamic environment for innovation and knowledge transfer.
+
+Our mission at AMAs is to advance alloy design and development. We focus on optimizing the mechanical performance of alloys and composites for specific applications through a deep understanding of solute atom interactions, strengthening mechanisms, as well as the control of phase transformations and texture. By manipulating structures at the atomic scale through elemental additions and secondary processes, we strive to create new metallic materials with superior properties.
+
+Current materials systems of interest include *advanced high-strength steels* and *light metal alloys (Al- and Mg-based)*, among others. Our extensive research and active participation in multiple R&D projects have resulted in a high publication rate in cutting-edge research areas, reflecting our commitment to excellence and innovation in the field of materials science.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -54,17 +57,17 @@ More details to follow.
   </a>
 </div>
 
+### Core Competencies:
+-	**Alloy Design and Development** (Advanced High Strength Steels, Lightweight Alloys)
+-	**Metal Matrix Composites (MMCs)**
+-	**Manufacturing Processes** (Casting, Powder Metallurgy, Surface Treatment)
+-	**Wrought Metallic Alloys Processing** (Heat Treatment, Machining, Rolling, Extrusion)
+-	**Microstructure and Texture Characterization** (SEM/EDS, XRD, TEM, EBSD, FTIR, XPS, Raman, AFM, Profilometry)
+-	**Mechanical Property Optimization** (strength, ductility, hardness, toughness, wear and corrosion resistance)
+-	**Modeling and Simulations**
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
-
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
-
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
-
-### Academic and Industry Collaborators
+### Funding and collaborations
 We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
 
 
