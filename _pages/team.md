@@ -31,7 +31,7 @@ permalink: /team/
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
-      <i class="fab fa-linkedin fa-stack-1x"></i>
+      <i class="fab fa-linkedin-in fa-stack-1x"></i>
     </span>
     <span class="sr-only">Linkedin</span>
   </a>
@@ -120,8 +120,8 @@ permalink: /team/
   <br>
   {%- if member.linkedin -%}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin" target="_blank">
-    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
-      <i class="fab fa-linkedin fa-stack-1x"></i>
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
+      <i class="fab fa-linkedin-in fa-stack-1x"></i>
     </span>
     <span class="sr-only">Linkedin</span>
   </a>
@@ -129,7 +129,7 @@ permalink: /team/
 
   {%- if member.gscholar -%}
   <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar" target="_blank">
-    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
       <i class="fa fa-graduation-cap fa-stack-1x"></i>
     </span>
     <span class="sr-only">GScholar</span>
@@ -138,7 +138,7 @@ permalink: /team/
 
   {%- if member.orcid -%}
   <a href="https://orcid.org/{{ member.orcid }}" title="Orcid" target="_blank">
-    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.5em">
+    <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1em">
       <i class="fab fa-orcid fa-stack-1x"></i>
     </span>
     <span class="sr-only">Orcid</span>
