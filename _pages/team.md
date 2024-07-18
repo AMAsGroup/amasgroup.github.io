@@ -111,8 +111,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>Joined the group in {{ member.join }}</i><br>
   <i>{{ member.info }}</i>
+  <br>Joined the group in {{ member.join }}
   <!-- {% if member.institute %}
   <i>{{ member.institute }}</i>
   {% endif %} -->
@@ -220,7 +220,7 @@ permalink: /team/
 </style>
 <style>
   .social-icon {
-    margin-right: 5px; /* Adjust this value as needed */
+    margin-right: 1px; /* Adjust this value as needed */
   }
 </style>
 <!-- ## Administrative Support
