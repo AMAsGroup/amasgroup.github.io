@@ -220,7 +220,7 @@ permalink: /team/
 </style>
 <style>
   .social-icon {
-    margin-right: 1px !important; /* Adjust this value as needed */
+    margin-right: 0.2px !important; /* Adjust this value as needed */
   }
 </style>
 <!-- ## Administrative Support
