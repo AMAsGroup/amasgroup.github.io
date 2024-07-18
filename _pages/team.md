@@ -29,7 +29,7 @@ permalink: /team/
   <br>Email: <{{ member.email }}>
   <br>
   {%- if member.linkedin -%}
-  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin" target="_blank" class="social-icon">
+  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.2em">
       <i class="fab fa-linkedin-in fa-stack-1x"></i>
     </span>
@@ -38,7 +38,7 @@ permalink: /team/
   {%- endif -%}
 
   {%- if member.gscholar -%}
-  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar" target="_blank" class="social-icon">
+  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.2em">
       <i class="fa fa-graduation-cap fa-stack-1x"></i>
     </span>
@@ -47,7 +47,7 @@ permalink: /team/
   {%- endif -%}
 
   {%- if member.orcid -%}
-  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid" target="_blank" class="social-icon">
+  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.2em">
       <i class="fab fa-orcid fa-stack-1x"></i>
     </span>
@@ -119,7 +119,7 @@ permalink: /team/
   <br>Email: <{{ member.email }}>
   <br>
   {%- if member.linkedin -%}
-  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin" target="_blank" class="social-icon">
+  <a href="https://www.linkedin.com/in/{{ member.linkedin }}" title="Linkedin" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.2em">
       <i class="fab fa-linkedin-in fa-stack-1x"></i>
     </span>
@@ -128,7 +128,7 @@ permalink: /team/
   {%- endif -%}
 
   {%- if member.gscholar -%}
-  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar" target="_blank" class="social-icon">
+  <a href="https://scholar.google.com/citations?user={{ member.gscholar }}" title="GScholar" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.2em">
       <i class="fa fa-graduation-cap fa-stack-1x"></i>
     </span>
@@ -137,7 +137,7 @@ permalink: /team/
   {%- endif -%}
 
   {%- if member.orcid -%}
-  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid" target="_blank" class="social-icon">
+  <a href="https://orcid.org/{{ member.orcid }}" title="Orcid" target="_blank">
     <span class="fa-stack fa-lg" aria-hidden="true" style="font-size: 1.2em">
       <i class="fab fa-orcid fa-stack-1x"></i>
     </span>
@@ -218,10 +218,6 @@ permalink: /team/
     color: #00002e;
   }
 </style>
-<style>
-  .social-icon {
-    margin-right: -2px !important; /* Adjust this value as needed */
-  }
-</style>
+
 <!-- ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->

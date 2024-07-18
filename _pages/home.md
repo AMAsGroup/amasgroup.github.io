@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-### Overview
+### About
 We are the **Advanced Metal Alloys (AMAs) Research Group** at the <a href="https://en.merc.ac.ir" target="_blank">Materials and Energy Research Center (MERC)</a>, led by <a href="https://www.linkedin.com/in/yahya-palizdar-83938325" target="_blank">Dr. Yahya Palizdar</a>. Established in 2018 by a team of dedicated academics and engineers specializing in Materials Science, our group aims to serve as a nexus between academia and industry. Over the years, AMAs has evolved into an interdisciplinary group, actively collaborating with leading universities, research institutes, and industry partners, fostering a dynamic environment for innovation and knowledge transfer.
 
 Our mission at AMAs is to advance alloy design and development. We focus on optimizing the mechanical performance of alloys and composites for specific applications through a deep understanding of solute atom interactions, strengthening mechanisms, as well as the control of phase transformations and texture. By manipulating structures at the atomic scale through elemental additions and secondary processes, we strive to create new metallic materials with superior properties.
