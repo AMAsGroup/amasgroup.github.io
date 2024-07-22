@@ -14,7 +14,7 @@ Our mission at AMAs is to advance alloy design and development. We focus on opti
 Current materials systems of interest include *Advanced High-Strength Steels* and *Light Metal Alloys (Al- and Mg-based)*, among others. Our extensive research and active participation in multiple R&D projects have resulted in a high publication rate in cutting-edge research areas, reflecting our commitment to excellence and innovation in the field of materials science.
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > -->
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -47,7 +47,7 @@ Current materials systems of interest include *Advanced High-Strength Steels* an
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+  <!-- <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
@@ -55,7 +55,7 @@ Current materials systems of interest include *Advanced High-Strength Steels* an
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> -->
 
 ### Research Areas:
  - Alloy Design and Development
@@ -66,6 +66,18 @@ Current materials systems of interest include *Advanced High-Strength Steels* an
  - Tribology
  - Coatings and Corrosion
  - Modeling and Simulations
+
+<style>
+  #homeid img {
+    width: 100%;
+    margin-bottom: 20px; /* Adjust this value as needed */
+    border-radius: 0; /* Ensure no rounded corners */
+  }
+</style>
+
+<div id="homeid" >
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Summary_Home.jpg" />
+</div>
 
 
 ### Join us
