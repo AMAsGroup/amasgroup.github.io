@@ -34,7 +34,7 @@ Current materials systems of interest include *Advanced High-Strength Steels* an
 </style>
 
 <div id="homeid" >
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Summary_Home.jpg" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Summary_Home.png" />
 </div>
 
 
