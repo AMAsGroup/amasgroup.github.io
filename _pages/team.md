@@ -215,7 +215,7 @@ permalink: /team/
 
 <style>
   .fa-stack:hover {
-    color: #176B87;
+    color: #00002E;
   }
 </style>
 
