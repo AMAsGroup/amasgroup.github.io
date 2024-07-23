@@ -14,7 +14,7 @@ Our mission at AMAs is to advance alloy design and development. We focus on opti
 Current materials systems of interest include *Advanced High-Strength Steels* and *Light Metal Alloys (Al- and Mg-based)*, among others. Our extensive research and active participation in multiple R&D projects have resulted in a high publication rate in cutting-edge research areas, reflecting our commitment to excellence and innovation in the field of materials science.
 
 
-### Research Areas:
+### Core Competencies:
  - Alloy Design and Development
  - Metal Matrix Composites(MMCs)
  - Fabrication Methods and Secondary Processes
