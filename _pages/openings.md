@@ -36,5 +36,5 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AMA_joinus_.png" width="75%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AMA_joinus.png" width="75%">
 </figure>
