@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-We are always looking for highly motivated and talented researchers and students to join our research team. Members of the AMAs Research Group come from a variety of backgrounds (vision science, neuroscience, computer science, optometry, biomechanics, biology, public health, etc.). Our work is inherently interdisciplinary and we learn from each other’s varying backgrounds.
+We are always looking for highly motivated and talented researchers and students to join our research team. Members of the AMAs Research Group mainly come from materials science backgrounds. Since many of our research projects are interdisciplinary projects,  and we learn from each other’s varying backgrounds.
 
 For information about undergraduate, graduate, and post-doctoral research opportunities, please email kbonnen [at] iu [dot] edu.
 
