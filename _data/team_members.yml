@@ -33,6 +33,16 @@
   education1: MSc, Materials Science and Engineering, University of Tehran, 2018
   education2: 
 
+- name: Mahta Shariat Razavi
+  photo: razavi_avatar.jpg
+  info: Administrative Assistant
+  email: Shariat245@gmail.com
+  linkedin: mahtashariatrazavi
+  join: Winter 2020
+  number_educ: 1
+  education1: MSc, Materials Science and Engineering, Iran University of Science and Technology, 2018
+  education2: 
+
 - name: Masih Banijamali
   photo: banijamali_avatar.jpg
   info: Graduate Research Assistant
@@ -40,17 +50,7 @@
   linkedin: masih-banijamali
   gscholar: YmHEJCoAAAAJ&hl
   orcid: 0000-0002-9935-8074
-  join: Fall 2020
+  join: Spring 2021
   number_educ: 1
   education1: MSc, Mechanical Engineering, K. N. Toosi University of Technology, 2019
-  education2: 
-
-- name: Mahta Shariat Razavi
-  photo: razavi_avatar.jpg
-  info: Administrative Assistant
-  email: Shariat245@gmail.com
-  linkedin: mahtashariatrazavi
-  join: Summer 2021
-  number_educ: 1
-  education1: MSc, Materials Science and Engineering, Iran University of Science and Technology, 2018
   education2: 
