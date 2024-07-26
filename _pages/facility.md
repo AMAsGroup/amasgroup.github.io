@@ -56,6 +56,8 @@ The AMAs Research Group is equipped with state-of-the-art research facilities in
 - Thermal Conductivity Analyzer
 - Particle Size Analyzer
 
+In addition to our extensive research capabilities in advanced metal alloy prototyping, processing, characterization, and testing, the AMAs Research Group provides consulting services to academic and industry partners. Our staff members are actively involved in industrial projects, consultancy, and other professional activities, further enhancing our commitment to practical and impactful research.
+
 <style>
   #homeid img {
     width: 100%;
@@ -68,5 +70,3 @@ The AMAs Research Group is equipped with state-of-the-art research facilities in
 <div id="homeid" >
   <img src="{{ site.url }}{{ site.baseurl }}/images/merc_labs.jpg" />
 </div>
-
-In addition to our extensive research capabilities in advanced metal alloy prototyping, processing, characterization, and testing, the AMAs Research Group provides consulting services to academic and industry partners. Our staff members are actively involved in industrial projects, consultancy, and other professional activities, further enhancing our commitment to practical and impactful research.
