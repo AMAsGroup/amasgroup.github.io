@@ -5,13 +5,12 @@ excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
-
+### Open positions
+Thank you for your interest in joining the AMAs Group.
 We are always looking for highly motivated and talented researchers and students to join our research team. Members of the AMAs Research Group mainly come from materials science backgrounds. Since many of our research projects are interdisciplinary projects,  and we learn from each other’s varying backgrounds.
 
 For information about undergraduate, graduate, and post-doctoral research opportunities, please email kbonnen [at] iu [dot] edu.
 
-
-### Open positions
 
 **We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
 

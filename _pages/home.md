@@ -38,8 +38,8 @@ Current materials systems of interest include *Advanced High-Strength Steels* an
  - Modeling and Simulations
 
 
-> ### Join us
-> **We are  looking for enthusiastic new PhD and MSc students and visiting researchers to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+### Join us 📣
+**We are  looking for enthusiastic new PhD and MSc students and visiting researchers to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 ### Funding and Partnerships
