@@ -7,7 +7,7 @@ permalink: /facility/
 
 # Research Facilities and Equipment
 
-The AMAs Research Group is equipped with state-of-the-art research facilities inside the department and interacts with other laboratories across campus. These facilities support prototyping, processing, microstructure characterization, and mechanical testing of metal alloys. Our extensive range of equipment and technologies includes:<br>
+The AMAs Research Group is equipped with state-of-the-art research facilities inside the department and interacts with other laboratories across campus. These facilities support materials fabrication, processing, characterization, mechanical property measurement, and additive manufacturing. Our extensive range of equipment and technologies includes:<br>
 
 **Metal Casting:** 
 - Induction Melting Furnace
@@ -56,4 +56,17 @@ The AMAs Research Group is equipped with state-of-the-art research facilities in
 - Thermal Conductivity Analyzer
 - Particle Size Analyzer
 
-In addition to our extensive research capabilities in advanced metal alloy synthesis, processing, characterization, and testing, the AMAs Research Group provides consulting services to academic and industry partners. Our staff members are actively involved in industrial projects, consultancy, and other professional activities, further enhancing our commitment to practical and impactful research.
+<style>
+  #homeid img {
+    width: 100%;
+    margin-top: 20px; /* Adjust this value as needed */
+    margin-bottom: 20px; /* Adjust this value as needed */
+    border-radius: 0; /* Ensure no rounded corners */
+  }
+</style>
+
+<div id="homeid" >
+  <img src="{{ site.url }}{{ site.baseurl }}/images/merc_labs.jpg" />
+</div>
+
+In addition to our extensive research capabilities in advanced metal alloy prototyping, processing, characterization, and testing, the AMAs Research Group provides consulting services to academic and industry partners. Our staff members are actively involved in industrial projects, consultancy, and other professional activities, further enhancing our commitment to practical and impactful research.
