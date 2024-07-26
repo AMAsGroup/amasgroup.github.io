@@ -30,9 +30,9 @@ Current materials systems of interest include *Advanced High-Strength Steels* an
 ### Core Competencies:
  - Alloy Design and Development
  - Metal Matrix Composites(MMCs)
- - Fabrication Methods and Secondary Processes
+ - Fabrication Methods and Processings
  - Microstructure and Texture Characterization
- - Mechanical Property Optimazation
+ - Mechanical Property Testing
  - Tribology
  - Coatings and Corrosion
  - Modeling and Simulations
