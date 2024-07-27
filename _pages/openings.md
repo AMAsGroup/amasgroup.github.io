@@ -16,7 +16,7 @@ For information about undergraduate, graduate, and visiting research opportuniti
 <p>
 </p>
 
-**We are currently open for Graduate Students and Visiting Researchers to join our research projects. The positions are mostly related to the corrosion performance and biocampatibility of Mg alloys.**
+**📢 We are currently open for Graduate Students and Visiting Researchers to join our research projects. The positions are mostly related to the corrosion performance and biocampatibility of Mg alloys.**
 
 **Opening 1:** Looking for highly motivated graduate students and researchers interested in corrosion studies on Mg-Zn-Ca and Mg-Gd-Zn magnesium alloys and WE43 magnesium composites. For more information, please see [(this document)]({{ site.url }}{{ site.baseurl }}/downloads/PHD1.pdf).
 
