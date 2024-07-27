@@ -21,6 +21,7 @@ For information about undergraduate, graduate, and visiting research opportuniti
 
 **Opening 2:** Looking for highly motivated graduate students and researchers to investigate hot compression behavior and mathematical modeling of Mg-Gd-Zn magnesium alloy. For more information, please see [(this document)]({{ site.url }}{{ site.baseurl }}/downloads/PHD2.pdf).
 
+<br>
 
 ### Applications for PhD positions
 If you are interested in working with us as a PhD student, please send an [email](mailto:y.palizdar@merc.ac.ir) to Dr. Palizdar. In your email, briefly state why you are interested in this position and attach your CV. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ in the subject line.
@@ -36,6 +37,11 @@ Occasionally, when there is a perfect match and a project is suitable for a grad
 We are also open to adding undergraduate students or summer interns to our team if we receive exceptional applicants. If you are interested, please read some of our papers and send us an email with your CV, transcript, and specific interests. Note that the workload might be high, but the likelihood of publications is high as well.
 
 <style>
+  #joinid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   #joinid img {
     width: 60%;
     margin-top: 20px; /* Adjust this value as needed */
