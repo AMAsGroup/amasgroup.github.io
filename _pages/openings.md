@@ -37,12 +37,6 @@ Occasionally, when there is a perfect match and a project is suitable for a grad
 We are also open to adding undergraduate students or summer interns to our team if we receive exceptional applicants. If you are interested, please read some of our papers and send us an email with your CV, transcript, and specific interests. Note that the workload might be high, but the likelihood of publications is high as well.
 
 <style>
-  
-  #joinid {
-    display: flex;
-    justify-content: center;
-  }
-
   #joinid img {
     width: 60%;
     margin-top: 20px; /* Adjust this value as needed */
