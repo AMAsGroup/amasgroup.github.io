@@ -13,8 +13,7 @@ We are always looking for highly motivated and talented researchers and students
 
 For information about undergraduate, graduate, and visiting research opportunities, please send us an [email](mailto:soroush.najafiran@gmail.com).
 
-<p>
-</p>
+<br>
 
 **📢 We are currently open for Graduate Students and Visiting Researchers to join our research projects. The positions are mostly related to the corrosion performance and biocampatibility of Mg alloys.**
 
@@ -38,7 +37,7 @@ We are also open to adding undergraduate students or summer interns to our team 
 
 <style>
   #joinid img {
-    width: 70%;
+    width: 60%;
     margin-top: 20px; /* Adjust this value as needed */
     margin-bottom: 20px; /* Adjust this value as needed */
     border-radius: 0; /* Ensure no rounded corners */
