@@ -45,7 +45,6 @@ We are also open to adding undergraduate students or summer interns to our team 
 
   #joinid img {
     width: 60%;
-    align: center;
     margin-top: 20px; /* Adjust this value as needed */
     margin-bottom: 20px; /* Adjust this value as needed */
     border-radius: 0; /* Ensure no rounded corners */
