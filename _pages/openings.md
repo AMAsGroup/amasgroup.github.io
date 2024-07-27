@@ -37,14 +37,14 @@ Occasionally, when there is a perfect match and a project is suitable for a grad
 We are also open to adding undergraduate students or summer interns to our team if we receive exceptional applicants. If you are interested, please read some of our papers and send us an email with your CV, transcript, and specific interests. Note that the workload might be high, but the likelihood of publications is high as well.
 
 <style>
-  #homeid img {
-    width: 60%;
+  #joinid img {
+    width: 70%;
     margin-top: 20px; /* Adjust this value as needed */
     margin-bottom: 20px; /* Adjust this value as needed */
     border-radius: 0; /* Ensure no rounded corners */
   }
 </style>
 
-<div id="homeid" >
+<div id="joinid" >
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AMA_joinus.png" />
 </div>
