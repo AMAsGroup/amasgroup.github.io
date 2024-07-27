@@ -13,6 +13,8 @@ We are always looking for highly motivated and talented researchers and students
 
 For information about undergraduate, graduate, and visiting research opportunities, please send us an [email](mailto:soroush.najafiran@gmail.com).
 
+<p>
+</p>
 
 **We are currently open for Graduate Students and Visiting Researchers to join our research projects. The positions are mostly related to the corrosion performance and biocampatibility of Mg alloys.**
 
@@ -28,11 +30,21 @@ If you are interested in working with us as a PhD student, please send an [email
 If you are a MSc student at MERC looking for a thesis project, contact Dr. Palizdar (or any group member) per email or stop by his office.
 
 ### Bsc/MSc students from elsewhere
-If you are interested in pursuing a MSc degree in a joint student program with Iran University of Science & Technology, visit [MERC admissions](https://www.merc.ac.ir/vice-presidents/research/postgraduate). <br>
-Occasionally, when there is a perfect match and a project is suitable for a graduate student who is not admitted to MERC, there might be opportunities for a Research Assistantship (RA). We currently do not have funds for research assistantships or collaborations. However, we highly encourage researchers to apply for either a capstone project (1 semester duration) or a research project (typically 1-year duration). <br>
+If you are interested in pursuing a MSc degree in a joint student program with Iran University of Science & Technology, visit <a href="https://www.merc.ac.ir/vice-presidents/research/postgraduate" target="_blank">MERC admissions</a>.
+
+Occasionally, when there is a perfect match and a project is suitable for a graduate student who is not admitted to MERC, there might be opportunities for a Research Assistantship (RA). We currently do not have funds for research assistantships or collaborations. However, we highly encourage researchers to apply for either a capstone project (1 semester duration) or a research project (typically 1-year duration).
+
 We are also open to adding undergraduate students or summer interns to our team if we receive exceptional applicants. If you are interested, please read some of our papers and send us an email with your CV, transcript, and specific interests. Note that the workload might be high, but the likelihood of publications is high as well.
 
+<style>
+  #homeid img {
+    width: 60%;
+    margin-top: 20px; /* Adjust this value as needed */
+    margin-bottom: 20px; /* Adjust this value as needed */
+    border-radius: 0; /* Ensure no rounded corners */
+  }
+</style>
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AMA_joinus.png" width="50%">
-</figure>
+<div id="homeid" >
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AMA_joinus.png" />
+</div>
