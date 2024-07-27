@@ -7,7 +7,7 @@ permalink: /facility/
 
 # Research Facilities and Equipment
 
-The AMAs Research Group is equipped with state-of-the-art research facilities inside the department and interacts with other laboratories across campus. These facilities support materials fabrication, processing, characterization, mechanical property measurement, and additive manufacturing. Our extensive range of equipment and technologies includes:<br>
+The AMAs Research Group is equipped with state-of-the-art research facilities inside the department and collaborates with other laboratories across campus, as well as with research and industrial partners. These facilities support materials fabrication, processing, characterization, mechanical property measurement, and additive manufacturing. Our extensive range of equipment and technologies includes:<br>
 
 **Metal Casting:** 
 - Induction Melting Furnace
