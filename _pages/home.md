@@ -49,7 +49,7 @@ We are grateful for funding and support from <a href="https://en.merc.ac.ir" tar
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MERClogo.png" style="width: 160px; margin-right: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IUSTlogo2.png" style="width: 100px; margin-right: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTlogo1.png" style="width: 90px; margin-right: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTlogo1.png" style="width: 75px; margin-right: 20px;">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KNTUlogo.png" style="width: 100px; margin-right: 20px;"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSTIDlogo.png" style="width: 160px">
 </figure>
