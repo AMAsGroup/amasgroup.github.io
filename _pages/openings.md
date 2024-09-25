@@ -3,7 +3,7 @@ title: "AMAs - Vacancies"
 layout: joinlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings/
 ---
 ## Open positions
 
@@ -11,15 +11,17 @@ Thank you for your interest in joining the AMAs Group.
 
 We are always looking for highly motivated and talented researchers and students to join our research team. Members of the AMAs Research Group predominantly come from materials science backgrounds. Given the interdisciplinary nature of many of our research projects, we also welcome applicants with backgrounds in mechanical engineering, physics, computational materials science and mechanics, data analysis, and machine learning. We thrive on learning from each other’s diverse expertise.
 
-For information about undergraduate, graduate, and visiting research opportunities, please send us an [email](mailto:soroush.najafiran@gmail.com).
+For information about undergraduate, graduate, and visiting research opportunities, please send us an [email](mailto:amasresearchgroup@gmail.com).
 
 <br>
 
 **📢 We are currently open for Graduate Students and Visiting Researchers to join our research projects. The positions are mostly related to the corrosion performance and biocampatibility of Mg alloys.**
 
-**Opening 1:** Looking for highly motivated graduate students and researchers interested in corrosion studies on Mg-Zn-Ca and Mg-Gd-Zn magnesium alloys and WE43 magnesium composites. For more information, please see [(this document)]({{ site.url }}{{ site.baseurl }}/downloads/PHD1.pdf).
+**Opening 1:** Looking for highly motivated graduate students and researchers interested in corrosion studies on Mg-Zn-Ca and Mg-Gd-Zn magnesium alloys and WE43 magnesium composites. 
+<!-- For more information, please see [(this document)]({{ site.url }}{{ site.baseurl }}/downloads/PHD1.pdf). -->
 
-**Opening 2:** Looking for highly motivated graduate students and researchers to investigate hot compression behavior and mathematical modeling of Mg-Gd-Zn magnesium alloy. For more information, please see [(this document)]({{ site.url }}{{ site.baseurl }}/downloads/PHD2.pdf).
+**Opening 2:** Looking for highly motivated graduate students and researchers to investigate hot compression behavior and mathematical modeling of Mg-Gd-Zn magnesium alloy. 
+<!-- For more information, please see [(this document)]({{ site.url }}{{ site.baseurl }}/downloads/PHD2.pdf). -->
 
 <br>
 
