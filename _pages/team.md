@@ -205,7 +205,7 @@ permalink: /team/
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Visiting Scholars</h4>
+<h4>Visitors</h4>
 {% for member in site.data.alumni_visiting %}
 {{ member.name }}
 {% endfor %}

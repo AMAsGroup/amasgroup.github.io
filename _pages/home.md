@@ -44,7 +44,7 @@ Current materials systems of interest include *Advanced High-Strength Steels* an
 
 
 ### Funding and Partnerships
-We are grateful for funding and support from <a href="https://en.merc.ac.ir" target="_blank">MERC</a> and the Mobarakeh Steel Technology & Innovation Development Fund (<a href="https://mstid.com/" target="_blank">MSTID FUND</a>). Strong collaborations also exist with other on-site research departments within MERC and with national universities, research centers, and knowledge-based companies. These partnerships are essential in facilitating the exchange of ideas, resources, and technologies, ensuring that our research remains at the forefront of the field and has a significant impact on both academia and industry.
+We are grateful for funding and support from <a href="https://en.merc.ac.ir" target="_blank">MERC</a> and the Mobarakeh Steel Technology & Innovation Development Fund (<a href="https://mstid.com/" target="_blank">MSTID FUND</a>). Strong collaborations also exist with other on-site research departments within MERC and with national universities, research centers, and knowledge-based companies.
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MERClogo.png" style="width: 160px; margin-right: 20px;">

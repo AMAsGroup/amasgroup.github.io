@@ -7,11 +7,11 @@
 
 # Site settings
 title: AMAs Research Group
-email: your-email@domain.com
+email: amasresearchgroup@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AMAs Research Group.
-baseurl: "/ama-merc"
-url: "https://masihbj.github.io"
+baseurl:
+url: "https://amasgroup.github.io"
 
 include:
   - .htaccess
