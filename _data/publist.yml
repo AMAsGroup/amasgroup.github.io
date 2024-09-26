@@ -75,7 +75,7 @@
   news1:
 
 - title: "Dry tribological behavior of hot-rolled WE43 magnesium matrix composites reinforced by B4C particles"
-  image: cover_wear.jpg
+  image: cover_Banijamali2022.jpg
   description: This study aims to develop a novel hot-rolled WE43-B4Cp composite with improved tribological performance for employment in the automotive industry. The addition of 10% B4C significantly improved wear resistance, particularly at higher loads. The superior wear performance of the hot-rolled WE43-10%B4Cp composite was ascribed to improved hardness and strength, as well as increased work hardening capacity of subsurface due to the presence of hard and thermally stable B4C particles with uniform dispersion and proper bonding to the matrix.
   authors: S.M. Banijamali, S. Najafi, A. Sheikhani, Y. Palizdar
   year: 2022
@@ -130,7 +130,7 @@
   news1:
 
 - title: "Influence of pH value and Zn/Ce cations ratio on the microstructures and corrosion resistance of LDH coating on AZ31"
-  image: Zahedi2022.jpg
+  image: cover_Zahedi2022.jpg
   description: This study aims to create a compact, anti-corrosion Zn-Ce LDH coating on AZ31 magnesium alloy using different molar ratios and pH values. The coatings were characterized using various techniques, including SEM, EDS, XRD, XPS, FT-IR, and PDP. The coating showed the lowest corrosion current density at a Zn/Ce ratio of 2 and a pH of 11.
   authors: V. Zahedi Asl, J. Zhao, Y. Palizdar, M.J. Anjum
   year: 2022
@@ -174,7 +174,7 @@
   news1:
 
 - title: "Microstructural characteristics of fusion zone in continuous wave fiber laser welded Nb-modified δ-TRIP steel"
-  image: cover_JMR&T.jpg
+  image: cover_Najafi2021.jpg
   description: Welding processes are performed using a 600 W fiber laser instrument with heat inputs of 60, 80, and 100 J mm−1. δ-TRIP Steel samples had similar chemical compositions but different Niobium amounts. Increased heat input led to changes in microstructure and hardness properties, affecting welders' ability to ensure safe joints in engineering structures. An increase in heat input reduced austenite content in weld metals, reducing hardness by 40% and 37% for 40Nb and 72Nb steels, respectively.
   authors: Y. Najafi, F. Malek Ghaini, Y. Palizdar, S. Gholami Shiri, M. Pakniat
   year: 2021
@@ -218,14 +218,14 @@
   news2: Part of the book series [The Minerals, Metals & Materials Series (MMMS)](https://www.springer.com/series/15240)
 
 - title: "Low-carbon cast microalloyed steel intercritically heat-treated at different temperatures: microstructure and mechanical properties"
-  image: cover_ACME.jpg
+  image: cover_Torkamani2021.jpg
   description: 
   authors: H. Torkamani, S. Raygan, C. Garcia-Mateo, Y. Palizdar, J. Rassizadehghani, J. Vivas, D. San-Martin
   year: 2021
   link:
     url: https://doi.org/10.1007/s43452-021-00222-6
     display: Archives of Civil and Mechanical Engineering (2021)
-  highlight: 0
+  highlight: 1
   news1:
 
 - title: "The effect of Y addition on the microstructure and work hardening behavior of Mg-Zn-Zr alloys"
@@ -335,7 +335,7 @@
   link:
     url: https://doi.org/10.1016/j.msea.2019.02.005
     display: Materials Science and Engineering A (2019)
-  highlight: 1
+  highlight: 0
   news1:
 
 - title: "The effect of Nb on microstructure, mechanical, and corrosion behavior of low Mn, microalloyed δ‐TRIP steel; a comparative study"
