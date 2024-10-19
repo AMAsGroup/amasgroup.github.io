@@ -9,7 +9,7 @@ permalink: /
 ### About
 We are the **Advanced Metal Alloys (AMAs) Research Group** at the <a href="https://en.merc.ac.ir" target="_blank">Materials and Energy Research Center (MERC)</a>, led by <a href="https://www.linkedin.com/in/yahya-palizdar-83938325" target="_blank">Dr. Yahya Palizdar</a>. Established in 2018 by a team of dedicated academics and engineers specializing in Materials Science, our group aims to serve as a nexus between academia and industry. Over the years, AMAs has evolved into an interdisciplinary group, actively collaborating with leading universities, research institutes, and industry partners, fostering a dynamic environment for innovation and knowledge transfer.
 
-Our mission at AMAs is to advance alloy design through a comprehensive understanding of the processing-structure-properties relationship. We focus on optimizing the mechanical performance of alloys and composites for targeted applications by investigating dislocation—solute atom interactions, phase transformations and stability, grain structure, and various strengthening mechanisms. By manipulating structures at the atomic scale via elemental addition and secondary processing techniques, we strive to develop new metallic materials with superior properties and enhanced performance.
+Our mission at AMAs is to advance alloy design through a comprehensive understanding of the processing-structure-properties relationship. We focus on optimizing the mechanical performance of alloys and composites for targeted applications by investigating dislocation-solute atom interactions, phase transformations and stability, grain structure, and various strengthening mechanisms. By manipulating structures at the atomic scale via elemental addition and secondary processing techniques, we strive to develop new metallic materials with superior properties and enhanced performance.
 
 Current materials systems of interest include *Advanced High-Strength Steels* and *Light Metal Alloys (Al- and Mg-based)*, among others. Our extensive research and active participation in multiple R&D projects have resulted in a high publication rate in cutting-edge research areas, reflecting our commitment to excellence and innovation in the field of materials science.
 
@@ -48,8 +48,8 @@ We are grateful for funding and support from <a href="https://en.merc.ac.ir" tar
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MERClogo.png" style="width: 160px; margin-right: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IUSTlogo2.png" style="width: 85px; margin-right: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTlogo.png" style="width: 85px; margin-right: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IUSTlogo2.png" style="width: 75px; margin-right: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTlogo.png" style="width: 75px; margin-right: 20px;">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KNTUlogo.png" style="width: 100px; margin-right: 20px;"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSTIDlogo.png" style="width: 160px">
 </figure>
