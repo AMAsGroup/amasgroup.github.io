@@ -1,3 +1,33 @@
+- title: "Tailoring mechanical and tribological properties of extruded Mg-Gd-Zn alloy with Ag addition"
+  image: cover_Ahmadi2025.jpg
+  description: This study aims to investigate how minor Ag additions influence the microstructural evolution, tensile strength, and wear resistance of extruded GZ31 alloys. By tailoring alloy composition and thermomechanical processing, we aim to promote dynamic recrystallization, refine grain structure, enhance mechanical performance, and maintain oxide layer stability. The obtained results present a promising route toward lightweight, wear-resistant Mg alloys intended for service in demanding automotive frictional environments.
+  authors: M. Ahmadi Nouri, S.M. Banijamali, S. Najafi, H. Saghafian, Y. Palizdar
+  year: 2025
+  link:
+    url: https://doi.org/10.1016/j.mtcomm.2025.112877
+    display: Materials Today Communications (2025)
+  highlight: 1
+  news1:
+
+- title: "In Situ Composite Reduced Graphene Oxide/Layered Double Hydroxide Growth on AZ31 Magnesium Alloy: Anticorrosion Performance and Protection Efficiency"
+  image:
+  description: 
+  authors: N. Alimadadi, Y. Palizdar, M. Hasheminiasari, S.M. Masoudpanah, M.J. Molaei, V. Zahedi Asl
+  year: 2025
+  link:
+    url: https://doi.org/10.1007/s11665-025-11002-1
+    display: Journal of Materials Engineering and Performance (2025)
+  highlight: 0
+
+- title: "Effect of heat treatment on the hardness and toughness of hot work tool steels"
+  image:
+  description: 
+  authors: M.H. Gourkani-Zarandi, A. Kolahi, Y. Palizdar, R. Riahifar, A. Khanlarkhani
+  year: 2025
+  link:
+    url: https://doi.org/10.1080/00084433.2025.2461835
+    display: Canadian Metallurgical Quarterly (2025)
+  highlight: 0
 
 - title: "The effect of trace vanadium addition on mechanical properties, microstructure and austenite phase characteristics in a 3.9% Al-Delta TRIP steel"
   image: cover_Physica.jpg
